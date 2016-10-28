@@ -1,0 +1,6 @@
+framework module RtFundOpenAPI {
+  umbrella header "RtFundOpenAPI.h"
+
+  export *
+  module * { export * }
+}
