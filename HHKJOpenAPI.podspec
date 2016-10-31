@@ -9,5 +9,5 @@ s.source   = { :git => 'https://github.com/HzHenghaokeji/HHKJOpenAPI.git', :tag 
 s.social_media_url   = 'http://www.winjijin.com'
 s.requires_arc = true
 s.ios.deployment_target = '8.0'
-s.source_files = 'RtFundOpenAPI.framework/*'
+s.source_files = '**/RtFundOpenAPI.h'
 end
